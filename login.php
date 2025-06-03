@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <title>Login</title>
-    <link rel="stylesheet" href="styles.css">
+   
 </head>
 <body>
     <div class="form-container">
@@ -14,7 +14,7 @@
             <input type="text" placeholder="Username" required>
             <input type="password" placeholder="Password" required>
             <button type="submit">Login</button>
-            <p class="toggle-text">Don't have an account? <a href="register.html">Sign Up</a></p>
+            <p class="toggle-text">Don't have an account? <a href="register.php">Sign Up</a></p>
         </form>
     </div>
 </body>
